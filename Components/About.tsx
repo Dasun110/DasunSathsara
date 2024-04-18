@@ -31,7 +31,7 @@ I am eager to apply my knowledge in a practical setting, and I believe in the po
                 </button>
             </div>
            <div data-aos="fade-left" className="lg:w-[500px] mx:auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[500px] w-[300px] relative">
-           <Image src="/images/about.jpg" alt="dasun" layout="fill" objectFit="contain" className="relative z-[11] w-[100%] h-[100%] object-contain"/>
+           <Image src="./images/about.jpg" alt="dasun" layout="fill" objectFit="contain" className="relative z-[11] w-[100%] h-[100%] object-contain"/>
            <div className=" absolute w-[100%] h-[100%] z-[10] bg-red-500 top-[-2rem] right-[-2rem]"></div>
 
            </div>

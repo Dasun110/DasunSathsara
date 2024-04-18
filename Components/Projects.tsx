@@ -13,7 +13,7 @@ const Projects = () => {
       <div data-aos="fade-up">
         <a href="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/p1.png" target="_blank" rel="noopener noreferrer">
           <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]">
-            <Image src="/images/p1.png" alt="Project1" layout="fill" className="object-contain" />
+            <Image src="./images/p1.png" alt="Project1" layout="fill" className="object-contain" />
           </div>
         </a>
       </div>
@@ -21,7 +21,7 @@ const Projects = () => {
       <div data-aos="fade-up" data-aos-delay="200">
         <a href="https://github.com/Dasun110/Guess-the-Flag" target="_blank" rel="noopener noreferrer">
           <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]">
-            <Image src="/images/p2.png" alt="Project2" layout="fill" className="object-contain" />
+            <Image src="./images/p2.png" alt="Project2" layout="fill" className="object-contain" />
           </div>
         </a>
       </div>
@@ -29,7 +29,7 @@ const Projects = () => {
       <div data-aos="fade-up" data-aos-delay="400">
         <a href="https://github.com/Dasun110/Image-Segmentation-OpenCV-Python" target="_blank" rel="noopener noreferrer">
           <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]">
-            <Image src="/images/p3.png" alt="Project3" layout="fill" className="object-contain" />
+            <Image src="./images/p3.png" alt="Project3" layout="fill" className="object-contain" />
           </div>
         </a>
       </div>
