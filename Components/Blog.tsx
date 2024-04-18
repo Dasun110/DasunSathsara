@@ -41,7 +41,7 @@ const Blog = () => {
       <a href="https://github.com/yourusername/repository" target="_blank" rel="noopener noreferrer">
         <div>
           <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[400px]">
-            <Image src="./images/p1.jpg" alt="Project1" layout="fill" className="object-contain" />
+            <Image src="./images/p5.jpg" alt="Project1" layout="fill" className="object-contain" />
           </div>
           <div className="w-[90%] text-center mx-auto bg-[#09101a] relative p-[2rem] mt-[-6rem] space-x-4">
             <div className="w-fit px-[2rem] py-[1rem] bg-[#55e6a5] relative mt-[-3rem] text-black font-semibold text-[17px] mx-auto">
