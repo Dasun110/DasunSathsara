@@ -27,9 +27,9 @@ const Services  =()=> {
              uppercase font-semibold text-center p-[2rem] ">
                  <RocketLaunchIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]"/>
                  <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">Fullstack</h1>
-                 <p className="text-[15px] text-[#d3fae8] font-normal">Experience seamless integration of frontend and backend technologies with my full-stack development services. Leveraging my proficiency in languages such as Python, Java, and Kotlin, along with frameworks like Next.js and REST APIs, I deliver robust and scalable solutions that meet your project's demands from end to end.
+                 <p className="text-[15px] text-[#d3fae8] font-normal">Experience seamless integration of frontend and backend technologies with my full-stack development services. Leveraging my proficiency in languages such as Python, Java, and Kotlin, along with frameworks like Next.js and REST APIs, I deliver robust and scalable solutions that meet your project&apos;s demands from end to end.
+                </p>
 
-                 </p>
              </div>   
         </div>
         <div>
