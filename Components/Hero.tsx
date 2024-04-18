@@ -27,7 +27,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="w-[400px] hidden bg-[#55e6e5] relative lg:flex items-center rounded-full h-[400px]">
-          <Image src={"/images/me.jpg"} alt="Dasun" layout="fill" className="object-cover rounded-full" />
+          <Image src={"${basePath}/images/me.jpg"} alt="Dasun" layout="fill" className="object-cover rounded-full" />
         </div>
       </div>
     </div>
