@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-link {
+    @apply relative font-semibold text-white cursor-pointer text-[18px] inline-block md:block after:block after:absolute after:h-[3px] after:bg-red-500 after:w-full after:scale-x-0 after:hover:scale-x-100 
+    after:transition after:duration-300 after:origin-center hidden;
+    min-width: max-content;
+  }
+  .nav-link-mobile{
+    @apply relative mb-[2rem] font-semibold text-white cursor-pointer text-[28px] inline-block md:block after:block after:absolute after:h-[3px] after:bg-red-500 after:w-full after:scale-x-0 after:hover:scale-x-100 
+    after:transition after:duration-300 after:origin-center;
+    min-width: max-content;
+  }
+  .heading{
+    @apply text-center text-white text-[25px] sm:text-[33px] md:text-[45px] font-bold uppercase
+  }
+}
